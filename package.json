@@ -1,0 +1,15 @@
+{
+  "name": "ssh-await",
+  "version": "0.0.1",
+  "description": "Async await enabled SSH module. Based on ssh2.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Morten Olsrud",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "ssh2": "^0.6.1"
+  }
+}
